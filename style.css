@@ -1,0 +1,11 @@
+@font-face {
+	font-family:"slant";
+	src: url("Slantedfont-Regular.otf") format("opentype");
+}
+
+body {
+	font-family: "slant";
+	color: blue; 
+	font-size: 2vw; 
+	
+}
