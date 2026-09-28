@@ -1,11 +1,32 @@
 @font-face {
-	font-family:"slant";
-	src: url("Slantedfont-Regular.otf") format("opentype");
+  font-family: slantedfont;
+  src: url("Slantedfont-Regular.otf") format("opentype");
 }
 
 body {
-	font-family: "slant";
+	font-family: slantedfont;
 	color: blue; 
-	font-size: 2vw; 
+	font-size: 20px; 
+	white-space: wrap;
+}
+
+p {
+	font-family: slantedfont;
+	color: blue; 
+	font-size: 25px;
+	letter-spacing:-20px;
+	
+}
+
+pre {
+	font-family: slantedfont;
+	color: blue; 
+	font-size: 2vw;
+}
+
+h2 {
+	font-family: slantedfont;
+	color: blue; 
+	font-size: 20px;
 	
 }
