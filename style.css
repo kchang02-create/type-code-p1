@@ -28,5 +28,14 @@ h2 {
 	font-family: "slantedfont";
 	color: blue; 
 	font-size: 20px;
+	word-spacing: -3vw;
+	
+}
+
+h3 {
+	font-family: "slantedfont";
+	color: blue; 
+	font-size: 20px;
+	word-spacing: -2vw;
 	
 }
